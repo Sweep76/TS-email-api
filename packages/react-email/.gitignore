@@ -1,0 +1,9 @@
+node_modules
+.next
+cli
+!src/cli
+
+# for testing
+.react-email
+emails
+static
